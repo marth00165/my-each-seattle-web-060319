@@ -4,6 +4,6 @@ def my_each(tobi)
   
   while i < tobi.length 
   
-  
+  yield
   
 end
