@@ -8,6 +8,9 @@ def my_each(tobi)
   
   i += 1 
   
-  
+end
+
+tobi
+
   
 end
