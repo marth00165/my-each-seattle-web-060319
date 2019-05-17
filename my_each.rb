@@ -6,6 +6,8 @@ def my_each(tobi)
   
   yield(tobi[i])
   
+  i += 1 
+  
   
   
 end
